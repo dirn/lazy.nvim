@@ -1,5 +1,12 @@
 # Changelog
 
+## [9.13.1](https://github.com/folke/lazy.nvim/compare/v9.13.0...v9.13.1) (2023-03-19)
+
+
+### Bug Fixes
+
+* **health:** allow overriding `1` ([959f8c3](https://github.com/folke/lazy.nvim/commit/959f8c36bc1744db2745b18135f2fb822b382cfb))
+
 ## [9.13.0](https://github.com/folke/lazy.nvim/compare/v9.12.1...v9.13.0) (2023-03-17)
 
 
